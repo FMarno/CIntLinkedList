@@ -1,7 +1,7 @@
 # CIntLinkedList
-a int linked list implemented in C, simples.
+An integer linked list implemented in C, simples.
 
-I needed one for a project and figured it could be useful in the future
-sorry for the lack of comments, might fix it later. <i>maybe...</i>
+I needed one for a project and figured it could be useful in the future.
+Sorry for the lack of comments, might fix it later. *maybe...*
 
-written while listening to Elton John.
+Written while listening to Elton John. :metal:
